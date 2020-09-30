@@ -1,3 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+my_credentials.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
